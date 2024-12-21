@@ -1,0 +1,11 @@
+C:\Users\dogus\source\repos\Oyunn\Oyunn\bin\Debug\Oyunn.exe.config
+C:\Users\dogus\source\repos\Oyunn\Oyunn\bin\Debug\Oyunn.exe
+C:\Users\dogus\source\repos\Oyunn\Oyunn\bin\Debug\Oyunn.pdb
+C:\Users\dogus\source\repos\Oyunn\Oyunn\obj\Debug\Oyunn.csprojAssemblyReference.cache
+C:\Users\dogus\source\repos\Oyunn\Oyunn\obj\Debug\Oyunn.Form1.resources
+C:\Users\dogus\source\repos\Oyunn\Oyunn\obj\Debug\Oyunn.Properties.Resources.resources
+C:\Users\dogus\source\repos\Oyunn\Oyunn\obj\Debug\Oyunn.csproj.GenerateResource.cache
+C:\Users\dogus\source\repos\Oyunn\Oyunn\obj\Debug\Oyunn.csproj.CoreCompileInputs.cache
+C:\Users\dogus\source\repos\Oyunn\Oyunn\obj\Debug\Oyunn.exe
+C:\Users\dogus\source\repos\Oyunn\Oyunn\obj\Debug\Oyunn.pdb
+C:\Users\dogus\source\repos\Oyunn\Oyunn\obj\Debug\Oyunn.Form2.resources
