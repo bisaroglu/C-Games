@@ -1,0 +1,50 @@
+C:\Users\dogus\source\repos\FlippyBird\FlippyBird\bin\Debug\FlippyBird.exe.config
+C:\Users\dogus\source\repos\FlippyBird\FlippyBird\bin\Debug\FlippyBird.exe
+C:\Users\dogus\source\repos\FlippyBird\FlippyBird\bin\Debug\FlippyBird.pdb
+C:\Users\dogus\source\repos\FlippyBird\FlippyBird\obj\Debug\FlippyBird.csprojAssemblyReference.cache
+C:\Users\dogus\source\repos\FlippyBird\FlippyBird\obj\Debug\FlippyBird.Form1.resources
+C:\Users\dogus\source\repos\FlippyBird\FlippyBird\obj\Debug\FlippyBird.Properties.Resources.resources
+C:\Users\dogus\source\repos\FlippyBird\FlippyBird\obj\Debug\FlippyBird.csproj.GenerateResource.cache
+C:\Users\dogus\source\repos\FlippyBird\FlippyBird\obj\Debug\FlippyBird.csproj.CoreCompileInputs.cache
+C:\Users\dogus\source\repos\FlippyBird\FlippyBird\obj\Debug\FlippyBird.exe
+C:\Users\dogus\source\repos\FlippyBird\FlippyBird\obj\Debug\FlippyBird.pdb
+C:\Users\dogus\OneDrive\Desktop\Yeni klasör\FlippyBird\FlippyBird\obj\Debug\FlippyBird.csprojAssemblyReference.cache
+C:\Users\dogus\OneDrive\Desktop\Yeni klasör\FlippyBird\FlippyBird\obj\Debug\FlippyBird.Form1.resources
+C:\Users\dogus\OneDrive\Desktop\Yeni klasör\FlippyBird\FlippyBird\obj\Debug\FlippyBird.Properties.Resources.resources
+C:\Users\dogus\OneDrive\Desktop\Yeni klasör\FlippyBird\FlippyBird\obj\Debug\FlippyBird.csproj.GenerateResource.cache
+C:\Users\dogus\OneDrive\Desktop\Yeni klasör\FlippyBird\FlippyBird\obj\Debug\FlippyBird.csproj.CoreCompileInputs.cache
+C:\Users\dogus\OneDrive\Desktop\Yeni klasör\FlippyBird\FlippyBird\obj\Debug\FlippyBird.exe
+C:\Users\dogus\OneDrive\Desktop\Yeni klasör\FlippyBird\FlippyBird\obj\Debug\FlippyBird.pdb
+C:\Users\dogus\OneDrive\Desktop\Yeni klasör\FlippyBird\FlippyBird\bin\Debug\FlippyBird.exe.config
+C:\Users\dogus\OneDrive\Desktop\Yeni klasör\FlippyBird\FlippyBird\bin\Debug\FlippyBird.exe
+C:\Users\dogus\OneDrive\Desktop\Yeni klasör\FlippyBird\FlippyBird\bin\Debug\FlippyBird.pdb
+C:\FlippyBird\FlippyBird\bin\Debug\FlippyBird.exe.config
+C:\FlippyBird\FlippyBird\bin\Debug\FlippyBird.exe
+C:\FlippyBird\FlippyBird\bin\Debug\FlippyBird.pdb
+C:\FlippyBird\FlippyBird\obj\Debug\FlippyBird.csprojAssemblyReference.cache
+C:\FlippyBird\FlippyBird\obj\Debug\FlippyBird.Form1.resources
+C:\FlippyBird\FlippyBird\obj\Debug\FlippyBird.Properties.Resources.resources
+C:\FlippyBird\FlippyBird\obj\Debug\FlippyBird.csproj.GenerateResource.cache
+C:\FlippyBird\FlippyBird\obj\Debug\FlippyBird.csproj.CoreCompileInputs.cache
+C:\FlippyBird\FlippyBird\obj\Debug\FlippyBird.exe
+C:\FlippyBird\FlippyBird\obj\Debug\FlippyBird.pdb
+C:\VisualStudioFiles\FlippyBird\FlippyBird\bin\Debug\FlippyBird.exe.config
+C:\VisualStudioFiles\FlippyBird\FlippyBird\bin\Debug\FlippyBird.exe
+C:\VisualStudioFiles\FlippyBird\FlippyBird\bin\Debug\FlippyBird.pdb
+C:\VisualStudioFiles\FlippyBird\FlippyBird\obj\Debug\FlippyBird.csprojAssemblyReference.cache
+C:\VisualStudioFiles\FlippyBird\FlippyBird\obj\Debug\FlippyBird.Form1.resources
+C:\VisualStudioFiles\FlippyBird\FlippyBird\obj\Debug\FlippyBird.Properties.Resources.resources
+C:\VisualStudioFiles\FlippyBird\FlippyBird\obj\Debug\FlippyBird.csproj.GenerateResource.cache
+C:\VisualStudioFiles\FlippyBird\FlippyBird\obj\Debug\FlippyBird.csproj.CoreCompileInputs.cache
+C:\VisualStudioFiles\FlippyBird\FlippyBird\obj\Debug\FlippyBird.exe
+C:\VisualStudioFiles\FlippyBird\FlippyBird\obj\Debug\FlippyBird.pdb
+C:\VisualStudioFiles\OYUNLAR\FlippyBird\FlippyBird\bin\Debug\FlippyBird.exe.config
+C:\VisualStudioFiles\OYUNLAR\FlippyBird\FlippyBird\bin\Debug\FlippyBird.exe
+C:\VisualStudioFiles\OYUNLAR\FlippyBird\FlippyBird\bin\Debug\FlippyBird.pdb
+C:\VisualStudioFiles\OYUNLAR\FlippyBird\FlippyBird\obj\Debug\FlippyBird.csprojAssemblyReference.cache
+C:\VisualStudioFiles\OYUNLAR\FlippyBird\FlippyBird\obj\Debug\FlippyBird.Form1.resources
+C:\VisualStudioFiles\OYUNLAR\FlippyBird\FlippyBird\obj\Debug\FlippyBird.Properties.Resources.resources
+C:\VisualStudioFiles\OYUNLAR\FlippyBird\FlippyBird\obj\Debug\FlippyBird.csproj.GenerateResource.cache
+C:\VisualStudioFiles\OYUNLAR\FlippyBird\FlippyBird\obj\Debug\FlippyBird.csproj.CoreCompileInputs.cache
+C:\VisualStudioFiles\OYUNLAR\FlippyBird\FlippyBird\obj\Debug\FlippyBird.exe
+C:\VisualStudioFiles\OYUNLAR\FlippyBird\FlippyBird\obj\Debug\FlippyBird.pdb
